@@ -1,0 +1,1 @@
+- thou shall commit properly like feat: added something, fix: fixed something, etc
