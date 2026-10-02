@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Bot bot = new Bot();
+await bot.Run();
